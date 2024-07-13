@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Netflix-replica-jan2024/static/css/main.2d6988ce.css",
+    "main.js": "/Netflix-replica-jan2024/static/js/main.7831243e.js",
+    "static/media/Netflix_Logo_PMS.png": "/Netflix-replica-jan2024/static/media/Netflix_Logo_PMS.303904f75553a51bbf31.png",
+    "index.html": "/Netflix-replica-jan2024/index.html",
+    "main.2d6988ce.css.map": "/Netflix-replica-jan2024/static/css/main.2d6988ce.css.map",
+    "main.7831243e.js.map": "/Netflix-replica-jan2024/static/js/main.7831243e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d6988ce.css",
+    "static/js/main.7831243e.js"
+  ]
+}
